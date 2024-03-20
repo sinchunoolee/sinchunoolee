@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sinchunoolee
-- 👀 I’m interested in being a codee
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on AI/ML
+- 👀 I’m interested in being a software developer
+- 🌱 I’m currently a Java Full Stack developer
+- 💞️ I’m looking to collaborate on SprigBoot and ReactJs
 - 📫 How to reach me snooleesinchana@gmail.com
 
 <!---
