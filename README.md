@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sinchunoolee
 - 👀 I’m interested in being a software developer
 - 🌱 I’m currently a Java Full Stack developer
-- 💞️ I’m looking to collaborate on SprigBoot and ReactJs
+- 💞️ I’m looking to collaborate on SpringBoot and ReactJs
 - 📫 How to reach me snooleesinchana@gmail.com
 
 <!---
